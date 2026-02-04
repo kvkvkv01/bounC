@@ -9,8 +9,16 @@ A simple game where balls bounce and flip tiles. Developed in C as a study proje
 
 ## Build
 
+### Using Make (MinGW/GCC)
+
 ```bash
-gcc boun.c -o bounce.exe -lgdi32 -lm
+make
+```
+
+### Using Visual Studio
+
+```bash
+build.bat
 ```
 ## Images
 
